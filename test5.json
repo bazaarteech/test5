@@ -11,6 +11,7 @@
             "3_months": "3 أشهر",
             "4_months": "4 أشهر",
             "6_months": "6 أشهر",
+            "3_month": "3 أشهر",
             "12_months": "12 شهرًا"
         }
     },
@@ -26,6 +27,7 @@
             "3_months": "3 months",
             "4_months": "4 months",
             "6_months": "6 months",
+            "3_month": "3 months"
             "12_months": "12 months"
         }
     },
@@ -41,6 +43,7 @@
             "3_months": "3 meses",
             "4_months": "4 meses",
             "6_months": "6 meses",
+            "3_month": "3 meses",
             "12_months": "12 meses"
         }
     },
@@ -56,6 +59,7 @@
             "3_months": "3 mois",
             "4_months": "4 mois",
             "6_months": "6 mois",
+            "3_month": "3 mois",
             "12_months": "12 mois"
         }
     }
