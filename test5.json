@@ -12,12 +12,12 @@
             "4_months": "4 أشهر",
             "6_months": "6 أشهر",
             "12_months": "12 شهرًا",
-            "7_month": "1 شهر",
-            "8_months": "2 شهرين",
-            "9_months": "3 أشهر",
-            "10_months": "4 أشهر",
-            "11_months": "6 أشهر",
-            "13_months": "12 شهرًا"
+            "7_month_b": "1 شهر.",
+            "8_months_ba": "2 شهرين'",
+            "9_months_baz": "3: أشهر",
+            "10_months_baza": "4 أشهر,",
+            "11_months_bazar": "6 أشهر*",
+            "13_months_bazaartech": "12 شهرًا`"
             
         }
     },
@@ -34,12 +34,12 @@
             "4_months": "4 months",
             "6_months": "6 months",
             "12_months": "12 months",
-            "7_month": "1 month",
-            "8_months": "2 months",
-            "9_months": "3 months",
-            "10_months": "4 months",
-            "11_months": "6 months",
-            "13_months": "12 months"
+            "7_month_b": "1 month.",
+            "8_months_ba": "2 months'",
+            "9_months_baz": "3: months",
+            "10_months_baza": "4 months,",
+            "11_months_bazar": "6 months*",
+            "13_months_bazartech": "12 months`"
         }
     },
     "es": {
@@ -55,12 +55,12 @@
             "4_months": "4 meses",
             "6_months": "6 meses",
             "12_months": "12 meses",
-            "7_month": "1 mes",
-            "8_months": "2 meses",
-            "9_months": "3 meses",
-            "10_months": "4 meses",
-            "11_months": "6 meses",
-            "13_months": "12 meses"
+            "7_month_b": "1 mes.",
+            "8_months_ba": "2 meses'",
+            "9_months_baz": "3: meses",
+            "10_months_baza": "4 meses,",
+            "11_months_bazar": "6 meses*",
+            "13_months_bazartech": "12 meses`"
         }
     },
     "fr": {
@@ -76,12 +76,12 @@
             "4_months": "4 mois",
             "6_months": "6 mois",
             "12_months": "12 mois",
-            "7_month": "1 mois",
-            "8_months": "2 mois",
-            "9_months": "3 mois",
-            "10_months": "4 mois",
-            "11_months": "6 mois",
-            "13_months": "12 mois"
+            "7_month_b": "1 mois.",
+            "8_months_ba": "2 mois'",
+            "9_months_baz": "3: mois",
+            "10_months_baza": "4 mois,",
+            "11_months_bazar": "6 mois*",
+            "13_months_bazartech": "12 mois`"
         }
     }
 }
